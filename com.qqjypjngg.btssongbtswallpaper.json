@@ -34,8 +34,8 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "INTER_COUNT" : 5,
 
-"ADMOB_INTER" : "INTERS",
-"ADMOB_BANNER" : "BANNER",
+"ADMOB_INTER" : "ca-app-pub-9992494537594419/6391745468",
+"ADMOB_BANNER" : "ca-app-pub-9992494537594419/3138896164",
 "ADMOB_OPENADS" : "OPEN_ADS",
 
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -71,7 +71,7 @@ This the best apps ever, ive try it and so awesome
 
 you need to try download this too
 ",
-"MORE_BUTTON" : "Share Via WhatsApp",
+"MORE_BUTTON" : "More Awesome Apps",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
 
 }
