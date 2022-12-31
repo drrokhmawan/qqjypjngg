@@ -1,0 +1,284 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.pacakagenameappabru",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Version Pro is Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "INTERS",
+"ADMOB_BANNER" : "BANNER",
+"ADMOB_OPENADS" : "OPEN_ADS",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+
+"STARTAPPID" : "211865903",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "null_key",
+"TAPDAQ_CLIENT_KEY" : "null_key",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+Please help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "
+Awesome apps ever, ive try it and so amazing
+
+you need to try download this too
+",
+"MORE_BUTTON" : "Share Via WhatsApp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
+
+}
+]
+, "Mp3": [
+
+{ "name_mp3":	"7 Rings",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/01.mp3"	},
+{ "name_mp3":	"Angels",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/02.mp3"	},
+{ "name_mp3":	"Astronomia",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/03.mp3"	},
+{ "name_mp3":	"Bad Guy",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/04.mp3"	},
+{ "name_mp3":	"Be Alright",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/05.mp3"	},
+{ "name_mp3":	"Be Happy",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/06.mp3"	},
+{ "name_mp3":	"Beach House",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/07.mp3"	},
+{ "name_mp3":	"Beautiful People",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/08.mp3"	},
+{ "name_mp3":	"Blinding Lights",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/09.mp3"	},
+{ "name_mp3":	"Boss Bitch",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/10.mp3"	},
+{ "name_mp3":	"Break Up with Your Girlfriend",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/11.mp3"	},
+{ "name_mp3":	"Breathe",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/12.mp3"	},
+{ "name_mp3":	"Butterflies",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/13.mp3"	},
+{ "name_mp3":	"Cannibal",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/14.mp3"	},
+{ "name_mp3":	"Coming To Get You",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/15.mp3"	},
+{ "name_mp3":	"Cradles",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/16.mp3"	},
+{ "name_mp3":	"Crush",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/17.mp3"	},
+{ "name_mp3":	"Dance Monkey",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/18.mp3"	},
+{ "name_mp3":	"Do not Call Me Angel",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/19.mp3"	},
+{ "name_mp3":	"Do not Call Me Up",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/20.mp3"	},
+{ "name_mp3":	"Do not Start Now",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/21.mp3"	},
+{ "name_mp3":	"Dynamite",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/22.mp3"	},
+{ "name_mp3":	"Empire",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/23.mp3"	},
+{ "name_mp3":	"End of Time",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/24.mp3"	},
+{ "name_mp3":	"Everybody Gets High",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/25.mp3"	},
+{ "name_mp3":	"Everything I Wanted",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/26.mp3"	},
+{ "name_mp3":	"Falling",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/27.mp3"	},
+{ "name_mp3":	"Fire on Fire",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/28.mp3"	},
+{ "name_mp3":	"Fly Me To The Moon",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/29.mp3"	},
+{ "name_mp3":	"Freak",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/30.mp3"	},
+{ "name_mp3":	"Graveyard",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/31.mp3"	},
+{ "name_mp3":	"Happy Now",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/32.mp3"	},
+{ "name_mp3":	"Harley F_cking Quinn Switching Vocals",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/33.mp3"	},
+{ "name_mp3":	"Harley F_cking Quinn",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/34.mp3"	},
+{ "name_mp3":	"Hate Me",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/35.mp3"	},
+{ "name_mp3":	"Heartless",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/36.mp3"	},
+{ "name_mp3":	"Heather",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/37.mp3"	},
+{ "name_mp3":	"Hot Girl Bummer",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/38.mp3"	},
+{ "name_mp3":	"I am a Mess",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/39.mp3"	},
+{ "name_mp3":	"I am Used to It",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/40.mp3"	},
+{ "name_mp3":	"I Do not Want You Back",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/41.mp3"	},
+{ "name_mp3":	"I Love You Baby",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/42.mp3"	},
+{ "name_mp3":	"Ice Cream",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/43.mp3"	},
+{ "name_mp3":	"Infected",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/44.mp3"	},
+{ "name_mp3":	"Jealous",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/45.mp3"	},
+{ "name_mp3":	"Kill This Love",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/46.mp3"	},
+{ "name_mp3":	"Knees",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/47.mp3"	},
+{ "name_mp3":	"Lalala",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/48.mp3"	},
+{ "name_mp3":	"Last Hurrah",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/49.mp3"	},
+{ "name_mp3":	"Let Me Down Slowly",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/50.mp3"	},
+{ "name_mp3":	"Liar",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/51.mp3"	},
+{ "name_mp3":	"Like A Vampire",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/52.mp3"	},
+{ "name_mp3":	"Lose You To Love Me",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/53.mp3"	},
+{ "name_mp3":	"Love Story",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/54.mp3"	},
+{ "name_mp3":	"Mad at Disney",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/55.mp3"	},
+{ "name_mp3":	"Mama",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/56.mp3"	},
+{ "name_mp3":	"Memories",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/57.mp3"	},
+{ "name_mp3":	"Monster",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/58.mp3"	},
+{ "name_mp3":	"Moonlight",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/59.mp3"	},
+{ "name_mp3":	"My Oh My",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/60.mp3"	},
+{ "name_mp3":	"No Friends",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/61.mp3"	},
+{ "name_mp3":	"Not Your Barbiegirl",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/62.mp3"	},
+{ "name_mp3":	"Ocean Eyes",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/63.mp3"	},
+{ "name_mp3":	"Old Town Road",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/64.mp3"	},
+{ "name_mp3":	"OMG What is Happening",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/65.mp3"	},
+{ "name_mp3":	"On My Way",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/66.mp3"	},
+{ "name_mp3":	"Overwhelmed",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/67.mp3"	},
+{ "name_mp3":	"Physical",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/68.mp3"	},
+{ "name_mp3":	"Play Date",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/69.mp3"	},
+{ "name_mp3":	"Post Malone",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/70.mp3"	},
+{ "name_mp3":	"Pretty is on The Inside",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/71.mp3"	},
+{ "name_mp3":	"Princesses Do not Cry",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/72.mp3"	},
+{ "name_mp3":	"Psycho",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/73.mp3"	},
+{ "name_mp3":	"Queen of Mean",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/74.mp3"	},
+{ "name_mp3":	"Queen",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/75.mp3"	},
+{ "name_mp3":	"Rain On Me",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/76.mp3"	},
+{ "name_mp3":	"Ride It",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/77.mp3"	},
+{ "name_mp3":	"S&M",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/78.mp3"	},
+{ "name_mp3":	"Savage Love",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/79.mp3"	},
+{ "name_mp3":	"Say So",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/80.mp3"	},
+{ "name_mp3":	"Senorita",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/81.mp3"	},
+{ "name_mp3":	"So Am I",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/82.mp3"	},
+{ "name_mp3":	"Someone You Loved",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/83.mp3"	},
+{ "name_mp3":	"Such a Whore",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/84.mp3"	},
+{ "name_mp3":	"Sweet but Psycho",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/85.mp3"	},
+{ "name_mp3":	"Take A Hint",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/86.mp3"	},
+{ "name_mp3":	"Take It Off",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/87.mp3"	},
+{ "name_mp3":	"Tomboy",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/88.mp3"	},
+{ "name_mp3":	"Unity",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/89.mp3"	},
+{ "name_mp3":	"Until We Die",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/90.mp3"	},
+{ "name_mp3":	"Waiting For Love",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/91.mp3"	},
+{ "name_mp3":	"What If I Told You That I Love You",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/92.mp3"	},
+{ "name_mp3":	"Without Me",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/93.mp3"	},
+{ "name_mp3":	"Wrap Me In Plastic",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/94.mp3"	},
+{ "name_mp3":	"WTF",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/95.mp3"	},
+{ "name_mp3":	"You Broke Me First",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/96.mp3"	},
+{ "name_mp3":	"You Do not Know",	"link_mp3":	"https://ia601405.us.archive.org/34/items/malamkor/97.mp3"	}
+
+
+],"Wallpaper": [
+
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image01.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image02.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image03.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image04.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image05.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image06.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image07.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image08.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image09.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image10.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image11.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image12.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image13.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image14.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image15.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image16.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image17.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image18.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image19.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image20.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image21.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image22.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image23.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image24.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image25.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image26.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image27.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image28.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image29.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image30.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image31.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image32.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image33.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image34.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image35.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image36.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image37.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image38.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image39.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image40.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image41.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image42.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image43.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image44.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image45.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image46.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image47.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image48.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image49.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image50.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image51.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image52.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image53.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image54.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image55.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image56.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image57.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image58.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image59.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image60.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image61.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image62.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image63.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image64.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image65.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image66.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image67.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image68.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image69.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image70.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image71.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image72.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image73.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image74.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image75.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image76.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image77.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image78.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image79.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image80.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image81.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image82.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image83.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image84.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image85.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image86.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image87.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image88.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image89.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image90.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image91.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image92.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image93.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image94.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image95.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image96.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image97.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image98.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image99.jpg"  },
+  {    "image": "https://ia601504.us.archive.org/11/items/nightcorrrr/image100.jpg"  }
+
+]
+}

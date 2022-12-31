@@ -1,0 +1,270 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.pacakagenameappabru",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Server Json Ready . . .",
+"MODE_NO_ADS_TRUE" : "Version Pro is Actived",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 5,
+
+"ADMOB_INTER" : "INTERS",
+"ADMOB_BANNER" : "BANNER",
+"ADMOB_OPENADS" : "OPEN_ADS",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+
+"STARTAPPID" : "211865903",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "null_key",
+"TAPDAQ_CLIENT_KEY" : "null_key",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+Please help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "
+This the best apps ever, ive try it and so awesome
+
+you need to try download this too
+",
+"MORE_BUTTON" : "Share Via WhatsApp",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
+
+}
+]
+, "Mp3": [
+
+   { "name_mp3": "1chis Math theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/01.mp3"  },
+   { "name_mp3": "911",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/02.mp3"  },
+   { "name_mp3": "Acapella",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/03.mp3"  },
+   { "name_mp3": "Angel With A Shotgun",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/04.mp3"  },
+   { "name_mp3": "Angry too",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/05.mp3"  },
+   { "name_mp3": "Baby Dont Cut",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/06.mp3"  },
+   { "name_mp3": "Bad Girlfriend",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/07.mp3"  },
+   { "name_mp3": "Bamboo Village Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/08.mp3"  },
+   { "name_mp3": "Be Alright",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/09.mp3"  },
+   { "name_mp3": "Beach theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/10.mp3"  },
+   { "name_mp3": "Blood Water",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/11.mp3"  },
+   { "name_mp3": "Cake",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/12.mp3"  },
+   { "name_mp3": "Candy Store",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/13.mp3"  },
+   { "name_mp3": "Copycat",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/14.mp3"  },
+   { "name_mp3": "Darkside",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/15.mp3"  },
+   { "name_mp3": "Desert Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/16.mp3"  },
+   { "name_mp3": "Devils Dont Fly",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/17.mp3"  },
+   { "name_mp3": "DNA",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/18.mp3"  },
+   { "name_mp3": "Do Re Mi",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/19.mp3"  },
+   { "name_mp3": "Dynasty",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/20.mp3"  },
+   { "name_mp3": "Empty",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/21.mp3"  },
+   { "name_mp3": "For The Love Of A Daughter",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/22.mp3"  },
+   { "name_mp3": "Forgettable",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/23.mp3"  },
+   { "name_mp3": "Freaks",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/24.mp3"  },
+   { "name_mp3": "Gacha City Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/25.mp3"  },
+   { "name_mp3": "Gacha Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/26.mp3"  },
+   { "name_mp3": "Genius",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/27.mp3"  },
+   { "name_mp3": "Good enough",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/28.mp3"  },
+   { "name_mp3": "GRRRLS",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/29.mp3"  },
+   { "name_mp3": "Hate Me",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/30.mp3"  },
+   { "name_mp3": "Hold On",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/31.mp3"  },
+   { "name_mp3": "Hometown Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/32.mp3"  },
+   { "name_mp3": "Honestly",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/33.mp3"  },
+   { "name_mp3": "Hoodie",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/34.mp3"  },
+   { "name_mp3": "Hooked",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/35.mp3"  },
+   { "name_mp3": "How Do You Love Someone",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/36.mp3"  },
+   { "name_mp3": "How To Be A Heartbreaker",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/37.mp3"  },
+   { "name_mp3": "I Think Im In Love",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/38.mp3"  },
+   { "name_mp3": "Im Not Her",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/39.mp3"  },
+   { "name_mp3": "Imma dog too",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/40.mp3"  },
+   { "name_mp3": "Impossible",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/41.mp3"  },
+   { "name_mp3": "Invisible",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/42.mp3"  },
+   { "name_mp3": "Just My Type",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/43.mp3"  },
+   { "name_mp3": "Menu Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/44.mp3"  },
+   { "name_mp3": "Middle Finger",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/45.mp3"  },
+   { "name_mp3": "Narwhal Sky",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/46.mp3"  },
+   { "name_mp3": "New friends",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/47.mp3"  },
+   { "name_mp3": "None Of My Business",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/48.mp3"  },
+   { "name_mp3": "Not Another Song About Love",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/49.mp3"  },
+   { "name_mp3": "O.D.D.",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/50.mp3"  },
+   { "name_mp3": "On My Way",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/51.mp3"  },
+   { "name_mp3": "Oy",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/52.mp3"  },
+   { "name_mp3": "Park Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/53.mp3"  },
+   { "name_mp3": "Phantoms Remix",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/54.mp3"  },
+   { "name_mp3": "Pretty Girl",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/55.mp3"  },
+   { "name_mp3": "Prettys On The Inside",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/56.mp3"  },
+   { "name_mp3": "Princesses Dont Cry",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/57.mp3"  },
+   { "name_mp3": "Prom Queen",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/58.mp3"  },
+   { "name_mp3": "R U Crazy",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/59.mp3"  },
+   { "name_mp3": "Royalty",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/60.mp3"  },
+   { "name_mp3": "Rumors",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/61.mp3"  },
+   { "name_mp3": "S.L.U.T.",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/62.mp3"  },
+   { "name_mp3": "Sarcasm",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/63.mp3"  },
+   { "name_mp3": "Savage",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/64.mp3"  },
+   { "name_mp3": "School Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/65.mp3"  },
+   { "name_mp3": "Secret",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/66.mp3"  },
+   { "name_mp3": "Shes Crazy But Shes Mine",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/67.mp3"  },
+   { "name_mp3": "Shes not me",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/68.mp3"  },
+   { "name_mp3": "Snowlands Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/69.mp3"  },
+   { "name_mp3": "So Am I",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/70.mp3"  },
+   { "name_mp3": "Sociopath",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/71.mp3"  },
+   { "name_mp3": "Sorry",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/72.mp3"  },
+   { "name_mp3": "Spookyville Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/73.mp3"  },
+   { "name_mp3": "Sweet But Psycho",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/74.mp3"  },
+   { "name_mp3": "Teen Idle",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/75.mp3"  },
+   { "name_mp3": "Title Theme",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/76.mp3"  },
+   { "name_mp3": "To My Parents",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/77.mp3"  },
+   { "name_mp3": "Trust Fund Baby",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/78.mp3"  },
+   { "name_mp3": "Undo",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/79.mp3"  },
+   { "name_mp3": "Without Me",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/80.mp3"  },
+   { "name_mp3": "Wolf in sheeps clothing",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/81.mp3"  },
+   { "name_mp3": "WTF",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/82.mp3"  },
+   { "name_mp3": "You Dont Know",    "link_mp3": "https://ia801500.us.archive.org/15/items/gaca_20210125/83.mp3"  }
+
+
+],"Wallpaper": [
+
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image01.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image02.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image03.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image04.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image05.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image06.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image07.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image08.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image09.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image10.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image11.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image12.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image13.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image14.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image15.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image16.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image17.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image18.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image19.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image20.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image21.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image22.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image23.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image24.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image25.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image26.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image27.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image28.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image29.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image30.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image31.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image32.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image33.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image34.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image35.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image36.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image37.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image38.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image39.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image40.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image41.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image42.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image43.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image44.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image45.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image46.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image47.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image48.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image49.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image50.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image51.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image52.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image53.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image54.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image55.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image56.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image57.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image58.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image59.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image60.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image61.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image62.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image63.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image64.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image65.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image66.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image67.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image68.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image69.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image70.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image71.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image72.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image73.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image74.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image75.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image76.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image77.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image78.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image79.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image80.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image81.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image82.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image83.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image84.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image85.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image86.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image87.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image88.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image89.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image90.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image91.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image92.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image93.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image94.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image95.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image96.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image97.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image98.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image99.jpg"  },
+  {    "image": "https://ia601407.us.archive.org/6/items/gachaaa/image100.jpg"  }
+
+]
+}
