@@ -19,10 +19,10 @@
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
 "ADS_ON_START" : false, // CTR NAIK PESAT
-"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
 "JSON_POPUP_WAIT" : "Server Json Ready . . .",
-"MODE_NO_ADS_TRUE" : "Version Pro is Actived",
+"MODE_NO_ADS_TRUE" : "Version Pro is Activated",
 
 // PENGATURAN IKLAN
 // ADMOB      backup unity backup startapp
@@ -32,7 +32,7 @@
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 5,
+"INTER_COUNT" : 3,
 
 "ADMOB_INTER" : "INTERS",
 "ADMOB_BANNER" : "BANNER",
@@ -71,7 +71,7 @@ Awesome apps ever, ive try it and so amazing
 
 you need to try download this too
 ",
-"MORE_BUTTON" : "Share Via WhatsApp",
+"MORE_BUTTON" : "More Awesome Apps",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
 
 }
