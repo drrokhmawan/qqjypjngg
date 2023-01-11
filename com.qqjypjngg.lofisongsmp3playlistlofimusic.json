@@ -1,0 +1,287 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.pacakagenameappabru",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Loading from server. . .",
+"MODE_NO_ADS_TRUE" : "Version Pro is Activated",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 3,
+
+"ADMOB_INTER" : "ca-app-pub-9992494537594419/8352775966_NULLED",
+"ADMOB_BANNER" : "ca-app-pub-9992494537594419/9278844828_NULLED",
+"ADMOB_OPENADS" : "OPEN_ADS",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+
+"STARTAPPID" : "211865903",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "null_key",
+"TAPDAQ_CLIENT_KEY" : "null_key",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+Please help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "
+This the best apps ever, ive try it and so awesome
+
+you need to try download this too
+",
+"MORE_BUTTON" : "More Awesome Apps",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
+
+}
+]
+,"Mp3": [
+
+{ "name_mp3":	"21 Questions",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/001.mp3"	},
+{ "name_mp3":	"A Lot",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/002.mp3"	},
+{ "name_mp3":	"Bad & Boujee",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/003.mp3"	},
+{ "name_mp3":	"Bando",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/004.mp3"	},
+{ "name_mp3":	"Bands",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/005.mp3"	},
+{ "name_mp3":	"Behind Barz",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/006.mp3"	},
+{ "name_mp3":	"Big Fish",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/007.mp3"	},
+{ "name_mp3":	"Bonfire",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/008.mp3"	},
+{ "name_mp3":	"Butterfly Doors",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/009.mp3"	},
+{ "name_mp3":	"Carbonated Water",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/010.mp3"	},
+{ "name_mp3":	"Carrollton",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/011.mp3"	},
+{ "name_mp3":	"Catch Me Outside",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/012.mp3"	},
+{ "name_mp3":	"Chain Swang",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/013.mp3"	},
+{ "name_mp3":	"Come Down",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/014.mp3"	},
+{ "name_mp3":	"Come Thru",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/015.mp3"	},
+{ "name_mp3":	"Consensual Rap",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/016.mp3"	},
+{ "name_mp3":	"Crew",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/017.mp3"	},
+{ "name_mp3":	"Diet",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/018.mp3"	},
+{ "name_mp3":	"Diva",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/019.mp3"	},
+{ "name_mp3":	"Dna",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/020.mp3"	},
+{ "name_mp3":	"Drip Too Hard",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/021.mp3"	},
+{ "name_mp3":	"Element",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/022.mp3"	},
+{ "name_mp3":	"Enemies",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/023.mp3"	},
+{ "name_mp3":	"Feel Good Inc",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/024.mp3"	},
+{ "name_mp3":	"Fvka.Beat",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/025.mp3"	},
+{ "name_mp3":	"Gambino",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/026.mp3"	},
+{ "name_mp3":	"Game Over",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/027.mp3"	},
+{ "name_mp3":	"Gang Moves",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/028.mp3"	},
+{ "name_mp3":	"Get In My Car",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/029.mp3"	},
+{ "name_mp3":	"Get Up",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/030.mp3"	},
+{ "name_mp3":	"Girls Best Friend",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/031.mp3"	},
+{ "name_mp3":	"Girls, Girls, Girls",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/032.mp3"	},
+{ "name_mp3":	"Goodmorningtokyo!",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/033.mp3"	},
+{ "name_mp3":	"Gyalchester",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/034.mp3"	},
+{ "name_mp3":	"Hard",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/035.mp3"	},
+{ "name_mp3":	"Hope",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/036.mp3"	},
+{ "name_mp3":	"How You Feel",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/037.mp3"	},
+{ "name_mp3":	"Humble",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/038.mp3"	},
+{ "name_mp3":	"I Been Born Again",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/039.mp3"	},
+{ "name_mp3":	"I Shyne",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/040.mp3"	},
+{ "name_mp3":	"Im Upset",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/041.mp3"	},
+{ "name_mp3":	"Japan",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/042.mp3"	},
+{ "name_mp3":	"Kevins Heart",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/043.mp3"	},
+{ "name_mp3":	"Kings Dead",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/044.mp3"	},
+{ "name_mp3":	"Lets Link",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/045.mp3"	},
+{ "name_mp3":	"Life Is Good",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/046.mp3"	},
+{ "name_mp3":	"Lifesaver",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/047.mp3"	},
+{ "name_mp3":	"Lights",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/048.mp3"	},
+{ "name_mp3":	"Like Me",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/049.mp3"	},
+{ "name_mp3":	"Look At Me",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/050.mp3"	},
+{ "name_mp3":	"Magnolia",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/051.mp3"	},
+{ "name_mp3":	"Man Of The Year",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/052.mp3"	},
+{ "name_mp3":	"Might Cop A Jag",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/053.mp3"	},
+{ "name_mp3":	"Money Longer",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/054.mp3"	},
+{ "name_mp3":	"My Chain",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/055.mp3"	},
+{ "name_mp3":	"Naruto",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/056.mp3"	},
+{ "name_mp3":	"Ned Flanders",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/057.mp3"	},
+{ "name_mp3":	"No Evidence",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/058.mp3"	},
+{ "name_mp3":	"Nuthin But A G Thang",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/059.mp3"	},
+{ "name_mp3":	"Ocean Drive",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/060.mp3"	},
+{ "name_mp3":	"Only One",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/061.mp3"	},
+{ "name_mp3":	"Out Of Luck",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/062.mp3"	},
+{ "name_mp3":	"P.I.M.P.",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/063.mp3"	},
+{ "name_mp3":	"Pain",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/064.mp3"	},
+{ "name_mp3":	"Panda",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/065.mp3"	},
+{ "name_mp3":	"Passionfruit",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/066.mp3"	},
+{ "name_mp3":	"Peek A Boo",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/067.mp3"	},
+{ "name_mp3":	"Potato Salad",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/068.mp3"	},
+{ "name_mp3":	"Pound Cake",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/069.mp3"	},
+{ "name_mp3":	"Psycho",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/070.mp3"	},
+{ "name_mp3":	"Rapstar",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/071.mp3"	},
+{ "name_mp3":	"Red Roses",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/072.mp3"	},
+{ "name_mp3":	"Remedy For A Broken Heart",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/073.mp3"	},
+{ "name_mp3":	"Remembering U",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/074.mp3"	},
+{ "name_mp3":	"Rich And Blind",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/075.mp3"	},
+{ "name_mp3":	"Righteous",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/076.mp3"	},
+{ "name_mp3":	"Roll In Peace",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/077.mp3"	},
+{ "name_mp3":	"Rubbin Off The Paint",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/078.mp3"	},
+{ "name_mp3":	"Run",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/079.mp3"	},
+{ "name_mp3":	"Sad!",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/080.mp3"	},
+{ "name_mp3":	"Sicko Mode",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/081.mp3"	},
+{ "name_mp3":	"Sing About Me",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/082.mp3"	},
+{ "name_mp3":	"Slipknot",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/083.mp3"	},
+{ "name_mp3":	"Snow On Tha Bluff",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/084.mp3"	},
+{ "name_mp3":	"Solved The Problem",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/085.mp3"	},
+{ "name_mp3":	"Somebody Gotta Die",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/086.mp3"	},
+{ "name_mp3":	"Star",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/087.mp3"	},
+{ "name_mp3":	"Steady Mobbin",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/088.mp3"	},
+{ "name_mp3":	"Straight To The Bank",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/089.mp3"	},
+{ "name_mp3":	"Stuck In A Dream",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/090.mp3"	},
+{ "name_mp3":	"Suicide Pit",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/091.mp3"	},
+{ "name_mp3":	"Sweatpants",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/092.mp3"	},
+{ "name_mp3":	"The Box",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/093.mp3"	},
+{ "name_mp3":	"The Worst Guys",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/094.mp3"	},
+{ "name_mp3":	"Today Was A Good Day",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/095.mp3"	},
+{ "name_mp3":	"Trap Baby",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/096.mp3"	},
+{ "name_mp3":	"Uber Everywhere",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/097.mp3"	},
+{ "name_mp3":	"Walk",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/098.mp3"	},
+{ "name_mp3":	"Without Me",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/099.mp3"	},
+{ "name_mp3":	"Yes Indeed",	"link_mp3":	"https://ia601401.us.archive.org/35/items/lofiremix/100.mp3"	}
+
+
+],"Wallpaper": [
+
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image01.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image02.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image03.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image04.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image05.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image06.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image07.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image08.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image09.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image10.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image11.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image12.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image13.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image14.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image15.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image16.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image17.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image18.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image19.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image20.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image21.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image22.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image23.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image24.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image25.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image26.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image27.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image28.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image29.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image30.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image31.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image32.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image33.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image34.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image35.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image36.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image37.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image38.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image39.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image40.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image41.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image42.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image43.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image44.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image45.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image46.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image47.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image48.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image49.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image50.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image51.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image52.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image53.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image54.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image55.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image56.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image57.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image58.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image59.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image60.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image61.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image62.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image63.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image64.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image65.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image66.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image67.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image68.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image69.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image70.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image71.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image72.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image73.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image74.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image75.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image76.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image77.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image78.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image79.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image80.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image81.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image82.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image83.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image84.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image85.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image86.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image87.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image88.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image89.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image90.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image91.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image92.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image93.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image94.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image95.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image96.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image97.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image98.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image99.jpg"	},
+{ "image":	"https://ia601408.us.archive.org/14/items/lovipung/image100.jpg" }
+
+]
+}
