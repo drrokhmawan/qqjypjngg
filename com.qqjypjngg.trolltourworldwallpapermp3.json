@@ -1,0 +1,231 @@
+{
+"Ads": [
+{
+
+//  STATUS_APP = "0" must set 0 if your app still live on playstore
+//  and STATUS_APP = "1" if your app "suspend"
+//  fill LINK_REDIRECT with new link app
+"STATUS_APP" : "0",
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.pacakagenameappabru",
+
+// memanggil data dari json "online" atau json "offline"
+//  online atau offline
+// jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
+//  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
+// online offline huruf kecil
+"MODE_MP3_ONLINE_OFFLINE" : "online",
+
+
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : false, // CTR NAIK PESAT
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"JSON_POPUP_WAIT" : "Loading from server. . .",
+"MODE_NO_ADS_TRUE" : "Version Pro is Activated",
+
+// PENGATURAN IKLAN
+// ADMOB      backup unity backup startapp
+// FAN        backup unity backup startapp
+// UNITY      backup startapp
+// TAPDAQ     backup unity backup startapp
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"INTER_COUNT" : 2,
+
+"ADMOB_INTER" : "INTERSTITIAL_ADS",
+"ADMOB_BANNER" : "BANNER_ADS",
+"ADMOB_OPENADS" : "OPEN_ADS",
+
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+
+"STARTAPPID" : "211865903",
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"TAPDAQ_APP_ID" : "null_key",
+"TAPDAQ_CLIENT_KEY" : "null_key",
+
+//  Exit Dialog
+//  Bantu Rating 5 bintang agar kami dapat terus memberikan informasi informasi terbaru
+//  help give us a 5 star rating, so we keep the spirit of providing the latest updates
+//  jika shre button "true" maka more button berubah fungsi menjadi share - more url hilang menjadi share
+"EXIT_POPUP_DIALOG" : "
+Please help give us a 5 star rating
+
+so we keep the spirit of providing the latest updates
+
+click rate now button
+",
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "
+This the best apps ever, ive try it and so awesome
+
+you need to try download this too
+",
+"MORE_BUTTON" : "More Awesome Apps",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
+
+}
+]
+, "Mp3": [
+
+{ "name_mp3":	"Atomic Dog",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/01.mp3"	},
+{ "name_mp3":	"Barracuda",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/02.mp3"	},
+{ "name_mp3":	"Born To Die",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/03.mp3"	},
+{ "name_mp3":	"Crazy Train",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/04.mp3"	},
+{ "name_mp3":	"Dancing Road",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/05.mp3"	},
+{ "name_mp3":	"Do not Slack",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/06.mp3"	},
+{ "name_mp3":	"Everything Nice",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/07.mp3"	},
+{ "name_mp3":	"Hair Up",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/08.mp3"	},
+{ "name_mp3":	"I Fall To Pieces",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/09.mp3"	},
+{ "name_mp3":	"I am Coming Out",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/10.mp3"	},
+{ "name_mp3":	"It is All Love",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/11.mp3"	},
+{ "name_mp3":	"Just Sing",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/12.mp3"	},
+{ "name_mp3":	"Just Want To Have Fun",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/13.mp3"	},
+{ "name_mp3":	"Leaving Lonesome Flats",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/14.mp3"	},
+{ "name_mp3":	"One More Time",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/15.mp3"	},
+{ "name_mp3":	"Perfect for Me",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/16.mp3"	},
+{ "name_mp3":	"Pop to Rock Poppy",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/17.mp3"	},
+{ "name_mp3":	"Ritmo",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/18.mp3"	},
+{ "name_mp3":	"Rock N Roll Rules",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/19.mp3"	},
+{ "name_mp3":	"Rock You Like A Hurricane",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/20.mp3"	},
+{ "name_mp3":	"The Other Side",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/21.mp3"	},
+{ "name_mp3":	"They do not Know",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/22.mp3"	},
+{ "name_mp3":	"Trolls 2 Many Hits Mashup",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/23.mp3"	},
+{ "name_mp3":	"Yodel Beat",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/24.mp3"	},
+{ "name_mp3":	"Best Day Ever",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/25.mp3"	},
+{ "name_mp3":	"Can not Stop The Feeling",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/26.mp3"	},
+{ "name_mp3":	"Dance It Out",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/27.mp3"	},
+{ "name_mp3":	"Forgive Me Remix",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/28.mp3"	},
+{ "name_mp3":	"Forgive Me Show",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/29.mp3"	},
+{ "name_mp3":	"Get Back Up Again",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/30.mp3"	},
+{ "name_mp3":	"Hair in the Air",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/31.mp3"	},
+{ "name_mp3":	"Happily Ever After",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/32.mp3"	},
+{ "name_mp3":	"Move Ya Body",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/33.mp3"	},
+{ "name_mp3":	"Move Your Feet",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/34.mp3"	},
+{ "name_mp3":	"One and Only Love",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/35.mp3"	},
+{ "name_mp3":	"Party On Trolls",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/36.mp3"	},
+{ "name_mp3":	"Prank Day Song",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/37.mp3"	},
+{ "name_mp3":	"Rap Battle Suite",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/38.mp3"	},
+{ "name_mp3":	"September",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/39.mp3"	},
+{ "name_mp3":	"Sunshine All The Time",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/40.mp3"	},
+{ "name_mp3":	"The Winners",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/41.mp3"	},
+{ "name_mp3":	"Trolls Holiday Love Train",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/42.mp3"	},
+{ "name_mp3":	"Trolls Sound of Silence",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/43.mp3"	},
+{ "name_mp3":	"True Colors",	"link_mp3":	"https://ia601502.us.archive.org/1/items/trololol_202012/44.mp3"	}
+
+
+],"Wallpaper": [
+
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image01.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image02.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image03.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image04.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image05.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image06.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image07.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image08.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image09.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image10.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image11.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image12.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image13.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image14.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image15.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image16.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image17.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image18.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image19.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image20.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image21.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image22.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image23.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image24.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image25.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image26.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image27.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image28.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image29.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image30.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image31.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image32.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image33.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image34.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image35.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image36.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image37.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image38.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image39.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image40.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image41.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image42.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image43.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image44.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image45.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image46.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image47.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image48.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image49.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image50.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image51.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image52.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image53.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image54.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image55.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image56.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image57.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image58.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image59.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image60.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image61.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image62.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image63.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image64.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image65.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image66.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image67.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image68.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image69.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image70.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image71.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image72.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image73.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image74.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image75.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image76.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image77.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image78.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image79.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image80.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image81.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image82.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image83.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image84.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image85.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image86.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image87.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image88.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image89.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image90.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image91.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image92.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image93.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image94.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image95.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image96.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image97.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image98.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image99.jpg"  },
+  {    "image": "https://ia601501.us.archive.org/0/items/worldtroll/image100.jpg"  }
+
+]
+}

@@ -1,0 +1,76 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Server Ready . . .",
+
+"TOAST_NOTIF" : false,
+
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Untuk Native akan terganti menjadi banner jika tanpa id 
+
+
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+
+"INTERS_COUNT_WEB" : 2,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"ADMOB_BANNER" : "ADMOB_BANNER",
+"ADMOB_INTER" : "ADMOB_INTER",
+
+"HPK_ALIENDROID" : "credit",
+"HPK_ADMOB1" : "attorney",
+"HPK_ADMOB2" : "insurance",
+"HPK_ADMOB3" : "mortgage",
+"HPK_ADMOB4" : "donate",
+"HPK_ADMOB5" : "loans",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+"UNITY_TEST_MODE" : false,
+
+"STARAPPID" : "211865903",
+
+"APPLOVIN_BANNER_ID" : "Banner_Applovin",
+"APPLOVIN_INTERSTITIAL_ID" : "Inters_Applovin",
+
+"FAN_BANNER" : "FAN_BANNER_ID",
+"FAN_INTER" : "FAN_INTER_ID",
+"FAN_NATIVE" : "FAN_INTER_ID",
+
+
+"BUTTON_RATING" : "RATE",
+"BUTTON_SHARE" : "SHARE",
+"BUTTON_START" : "START",
+
+"EXIT_POPUP_DIALOG" : "Please help to give 5 stars rating",
+
+"RATE_BUTTON" : "RATE NOW",
+"LATER_BUTTON" : "RATE LATER",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Download more awesome apps",
+
+"MORE_BUTTON" : "More Awesome Apps",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=application+packagename"
+
+
+  }
+}
+
+
