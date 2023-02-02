@@ -1,0 +1,83 @@
+{
+"redirect" : {
+
+// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
+// pastikan mode offline mp3 true jika merubah ke mode mp3
+// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
+
+"HOMEURL" : "file:///android_asset/music/playlist.html",
+
+// testing server json yang dipakai
+"JSON_POPUP_WAIT" : "Server Ready . . .",
+
+// Redirect ke apps lain 
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
+
+// main ads ke backup ads 
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+
+//     mode pengaturan iklan
+//     Mode ADMOB       Admob backup Unity Backup Startapp
+//     Mode FAN         FAN backup Unity Backup Startapp
+//     Mode UNITY       Unity backup Startapp
+//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
+
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
+
+"INTER_COUNT" : "2",
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+
+"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
+
+"MODE_OFFLINE_MP3" : true,
+"ENABLE_STICKY_NOTIFICATION" : false,
+
+"STARTAPPID" : "211865903",
+
+"ADMOB_BANNER" : "ca-app-pub-9992494537594419/9616674609",
+"ADMOB_INTER" : "ca-app-pub-9992494537594419/3524831946",
+"ADMOB_NATIV" : "ca-app-pub-9992494537594419/8685643375",
+
+"HPK_ALIENDROID" : "crypto",
+"HPK_ADMOB1" : "credit",
+"HPK_ADMOB2" : "loans",
+"HPK_ADMOB3" : "donate",
+"HPK_ADMOB4" : "insurance",
+"HPK_ADMOB5" : "degree",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "5084453",
+
+"APPLOVIN_BANNER_MAX_ID" : "applovinmaxbanner",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "maxinterstitial",
+
+"BUTTON_START" : "START",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATING NOW",
+
+"EXIT_POPUP_DIALOG" : "Please help to give 5 stars rating",
+
+"RATE_BUTTON" : "Rate Now",
+"LATER_BUTTON" : "Rate Later",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Download more awesome apps",
+
+"MORE_BUTTON" : "More Awesome Apps",
+// Jika share button TRUE maka tombol MORE berubah SHARE
+// isi url more apps jika ENABLE_SHARE_BUTTON  is false
+"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=Sekti+Ampuh"
+
+ }
+}
